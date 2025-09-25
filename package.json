@@ -1,0 +1,24 @@
+{
+  "name": "week-1-sandbox-stephyyp-1",
+  "version": "1.0.0",
+  "description": "- Card 1: [Topic Name] - Issue #[number]\r - Card 2: [Topic Name] - Issue #[number]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephyyp/week-1-sandbox-stephyyp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/stephyyp/week-1-sandbox-stephyyp/issues"
+  },
+  "homepage": "https://github.com/stephyyp/week-1-sandbox-stephyyp#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.45.0"
+  }
+}
