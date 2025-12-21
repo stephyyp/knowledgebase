@@ -1,4 +1,0 @@
-/* Use the paint worklet as a background */
-.element {
-  background-image: paint(stripes);
-}
